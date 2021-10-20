@@ -19,7 +19,7 @@ Contradiction usually occurs when chatting about facts or opinions. Contradictio
 
 Then, we generate questions based on the extracted entities. We employ text2text (https://github.com/artitw/text2text) as the question generator. 
 
-Please refer to `text2text/deploy.py` for deploying entity extraction and question generation.
+Please refer to `question_generator/deploy.py` for deploying entity extraction and question generation.
 
 ### Deploy Chatbots
 
